@@ -7,6 +7,8 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
 - **Decorator Pattern** - permite montar bebidas com ingredientes adicionais.
 - **Command Pattern** - encapsula os pedidos como comandos que podem ser executados e armazenados.
 
+---
+
 ### Estrutura do Projeto
 
 - `comandos/` - implementação do padrão Command
@@ -38,6 +40,8 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
   Comando pedido = new FazerPedido(cafeComLeite);
   garcom.executarComando(pedido);
   ```
+
+  ---
   
   ### Como Executar
   
