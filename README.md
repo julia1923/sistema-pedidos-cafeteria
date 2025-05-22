@@ -9,7 +9,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
 
 ### Estrutura do Projeto
 
-= `comandos/` - implementação do padrão Command
+- `comandos/` - implementação do padrão Command
 - `ingredientes/` - implementação dos ingredientes adicionais acionando o padrão Decorator
 - `produtos/` - são as bebidas base (ex.: chá e café).
 - `itenscardapio/` - são os itens adicionais para complementar o seu pedido
@@ -20,6 +20,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
   ### Design Patterns Utilizados
 
   **Decorator**
+  
   Permite acrescentar ingredientes extras a bebidas sem alterar as classes base.
   
   Exemplo no código:
@@ -29,6 +30,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
   ```
 
   **Command**
+  
   Transforma a ação de fazer pedidos para objetos e permite executar e refazer pedidos.
 
   Exemplo no código:
