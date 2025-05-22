@@ -1,4 +1,4 @@
-☕ Sistema de Pedidos em uma cafeiteria 
+☕ Sistema de Pedidos em uma cafeteria 
 ---
 
 Este é um projeto acadêmico desenvolvido em Java que simula um sistema de pedidos de uma cafeteria. O projeto foi elaborado
