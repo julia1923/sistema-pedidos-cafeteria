@@ -51,16 +51,16 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
        ```
 
   2. Mude de diretório:
-    ```java
-      cd sistema-pedidos-cafeteria
-         ```
+     ```java
+     cd sistema-pedidos-cafeteria
+       ```
      
   4. Compile o projeto (No Git Bash (Linux/macOS/Windows):
      ```java
      mkdir -p bin
-    find src -name "*.java" > sources.txt
-    javac -d bin @sources.txt
-      ```
+     find src -name "*.java" > sources.txt
+     javac -d bin @sources.txt
+       ```
      
   5. Execute o programa:
       ```java
