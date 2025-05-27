@@ -55,7 +55,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
      cd sistema-pedidos-cafeteria
        ```
      
-  4. Compile o projeto (No Git Bash (Linux/macOS/Windows):
+  4. Compile o projeto (Git Bash):
      ```java
      mkdir -p bin
      find src -name "*.java" > sources.txt
