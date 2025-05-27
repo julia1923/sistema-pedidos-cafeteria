@@ -48,16 +48,23 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
   1. Clone o repositório:
      ```java
      git clone https://github.com/julia1923/sistema-pedidos-cafeteria.git
-     ```
+       ```
+
+  2. Mude de diretório:
+    ```java
+      cd sistema-pedidos-cafeteria
+         ```
      
-  3. Compile o projeto:
+  4. Compile o projeto (No Git Bash (Linux/macOS/Windows):
      ```java
-     javac src/**/*.java
-     ```
+     mkdir -p bin
+    find src -name "*.java" > sources.txt
+    javac -d bin @sources.txt
+      ```
      
-  5. Execute o programa pela classe Main:
+  5. Execute o programa:
       ```java
-     java principal.Main
+     java -cp bin principal.Main
       ```
 
 
