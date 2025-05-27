@@ -23,7 +23,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
 
   **Decorator**
   
-  Permite acrescentar ingredientes extras a bebidas sem alterar as classes base.
+  Permite acrescentar ingredientes extras a bebidas sem alterar as classes bases.
   
   Exemplo no código:
   ```java
@@ -47,7 +47,7 @@ utilizando dois padrões da programação orientada a objetos: Decorator e Comma
   
   1. Clone o repositório:
      ```java
-     git clone https://github.com/seu-usuario/seu-repositorio.git
+     git clone https://github.com/julia1923/sistema-pedidos-cafeteria.git
      ```
      
   3. Compile o projeto:
